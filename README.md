@@ -1,6 +1,11 @@
 # rest-api-microservice-docker
 
-
+Technologies used:
+AWS
+Python
+Flask
+Flask Restful
+Docker
 
 
 
