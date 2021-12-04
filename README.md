@@ -1,11 +1,11 @@
 # rest-api-microservice-docker
 
 Technologies used:
-AWS
-Python
-Flask
-Flask Restful
-Docker
+- AWS
+- Python
+- Flask
+- Flask Restful
+- Docker
 
 
 Now lets use that Dockerfile to build an image which will later be used to make a container:
