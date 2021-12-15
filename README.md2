@@ -1,0 +1,21 @@
+Build and Deploy a REST API Microservice with Python Flask and Docker
+#python
+#flask
+#docker
+#microservices
+
+Objectives:
+- Build a simple but real-world useable REST API
+- Follow REST and Microservice Arch Best Practices
+- Deploy to a Docker Container
+
+Technologies used:
+- Python
+- Flask
+- Flask Restful
+- Docker
+
+Prerequisites:
+- A Foundational Understanding of Python
+- Acquaintance with the Flask Microframework
+- A Primary Understanding of Docker and Docker Container Management
